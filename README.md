@@ -1,1 +1,1 @@
-This homework uses API to populate the videos available to the user.
+An API is called to populate the animal videos, which can be viewed by the user.
